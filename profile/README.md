@@ -1,6 +1,6 @@
 #  FuzzyMainframes
 
-This organization was created and maintained by a sole developer who, due to personal reasons, has been unable to continue maintaining these projects. We respect their privacy and wish them the best.
+This organization was created and maintained by a sole individual who, due to personal reasons, has been unable to continue maintaining these projects. We respect their privacy and wish them the best.
 
 As a result, repositories across this organization have been dormant since 2023, and issues and pull requests have gone unreviewed — in some cases for nearly three years. We understand that's frustrating, especially for anyone who took the time to contribute or report problems.
 
